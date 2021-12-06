@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gởi ! 💌💌',
     reply: 'Tại vì RY yêu Mập vãi lồn 😊😊',
     mess: 'Mập biết mà, Mập cũng yêu RY lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Mập nha. 💬💬',
+    messDesc: '💬💬 Mập yêu Bé lắm bé đừng rời xa Mập nha 💬💬',
     btnAccept: 'Dạ vâng 💖',
     messLink: 'https://m.me/profile.php?id=100030641494178'
 }
